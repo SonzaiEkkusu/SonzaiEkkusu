@@ -1,5 +1,5 @@
 #!/bin/bash
-# ./find_mirrors armhf (distro) main | grep FOUND
+# chmod to 775 and run ./search armhf (distro) main | grep FOUND
 # URL of the Launchpad mirror list
 MIRROR_LIST=https://launchpad.net/ubuntu/+archivemirrors
 
