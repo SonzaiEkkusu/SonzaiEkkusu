@@ -10,8 +10,7 @@ jobs:
         id: setup_buildx
         uses: akhileshns/heroku-deploy@v3.12.12
         with:
-          driver: docker
-          install: true
+        usedocker: true
 
       - name: Checkout Repo
         id: checkout_repo
