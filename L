@@ -1,1 +1,0 @@
-https://fool.azurewebsites.net/get?format=raw&limit=1&vpn=vmess&region=Asia&cc=SG,ID&cdn=104.26.6.171&sni=104.26.6.171&pass=0wpow7wy
