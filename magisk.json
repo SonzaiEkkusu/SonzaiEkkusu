@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "4d5510be-alpha",
+    "versionCode": "27001",
+    "link": "",
+    "note": ""
+  },
+  "stub": {
+    "versionCode": "38",
+    "link": ""
+  }
+}
